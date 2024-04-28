@@ -3,7 +3,7 @@ Dataset has been taken from Deep Learning Specialization - Course 4 - Convolutio
 
 # My Implementation
 * Dataset can be accessed from nested folder in content folder, it has been saved that way to correspond with colab file structure
-* happy_model.keras contains parameters I trained on google colab and can be used straightaway
+* happy_model.h5 contains parameters I trained on google colab and can be used straightaway
 * The notebook is reasonably well commented  
 
 # Result
